@@ -5,6 +5,7 @@ const width = 600;
 const height = 600;
 
 
+
 // Create new Engine
 const engine = Engine.create();
 // Give access to World that create along with that engine
